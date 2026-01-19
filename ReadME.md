@@ -21,7 +21,7 @@ Built to gain familiarity with game development in Python using Pygame.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Space-Invaders-Overdrive.git
+   git clone https://github.com/aidenaap/Space-Invaders-Overdrive.git
    cd Space-Invaders-Overdrive
    ```
 
